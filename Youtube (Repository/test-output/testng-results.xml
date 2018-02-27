@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47828" started-at="2018-01-18T17:35:49Z" finished-at="2018-01-18T17:36:37Z">
+    <groups>
+    </groups>
+    <test name="Command line test b5da5ceb-d113-49e4-b65a-8008d07ad609" duration-ms="47828" started-at="2018-01-18T17:35:49Z" finished-at="2018-01-18T17:36:37Z">
+      <class name="org.selenium.test.TCR1">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:org.selenium.test.TCR1@38082d64]" name="launchBrowser" is-config="true" duration-ms="9792" started-at="2018-01-18T23:05:49Z" finished-at="2018-01-18T23:05:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="loginAndClickTrending()[pri:0, instance:org.selenium.test.TCR1@38082d64]" name="loginAndClickTrending" duration-ms="10375" started-at="2018-01-18T23:05:59Z" finished-at="2018-01-18T23:06:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAndClickTrending -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:org.selenium.test.TCR1@38082d64]" name="closeBrowser" is-config="true" duration-ms="3000" started-at="2018-01-18T23:06:09Z" finished-at="2018-01-18T23:06:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.selenium.test.TCR1 -->
+      <class name="org.selenium.test.TCR2">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:org.selenium.test.TCR2@246ae04d]" name="launchBrowser" is-config="true" duration-ms="10887" started-at="2018-01-18T23:06:12Z" finished-at="2018-01-18T23:06:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="clickSubscriptions()[pri:0, instance:org.selenium.test.TCR2@246ae04d]" name="clickSubscriptions" duration-ms="10750" started-at="2018-01-18T23:06:23Z" finished-at="2018-01-18T23:06:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSubscriptions -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:org.selenium.test.TCR2@246ae04d]" name="closeBrowser" is-config="true" duration-ms="3000" started-at="2018-01-18T23:06:34Z" finished-at="2018-01-18T23:06:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.selenium.test.TCR2 -->
+    </test> <!-- Command line test b5da5ceb-d113-49e4-b65a-8008d07ad609 -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Command line test d80c016c-e8d9-47d8-bbe4-ae0ee5695042(failed)">
+    <classes>
+      <class name="org.selenium.test.TCR2">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="clickSubscriptions"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- org.selenium.test.TCR2 -->
+      <class name="org.selenium.test.TCR1">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="launchBrowser"/>
+          <include name="loginAndClickTrending"/>
+        </methods>
+      </class> <!-- org.selenium.test.TCR1 -->
+    </classes>
+  </test> <!-- Command line test d80c016c-e8d9-47d8-bbe4-ae0ee5695042(failed) -->
+</suite> <!-- Failed suite [Suite] -->
